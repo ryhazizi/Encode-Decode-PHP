@@ -1,0 +1,1 @@
+examples encode & decode using PHP.
